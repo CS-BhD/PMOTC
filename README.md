@@ -1,4 +1,4 @@
-# PfMOTC
+# PMOTC
 Project for prediction of Plasmodium mitochondrial protein
 # Requirements
 numpy==1.18.1
